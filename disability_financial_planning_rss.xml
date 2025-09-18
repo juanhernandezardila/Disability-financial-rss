@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Disability Financial Planning Resources</title>
+    <link>https://example.com/disability-financial-planning</link>
+    <description>Curated articles and tools for financial planners working with individuals with disabilities.</description>
+    <language>en-us</language>
+    <item>
+      <title>Special Needs Financial Planning Timeline</title>
+      <link>https://specialneedsplanning.com/</link>
+      <description>Sequoia Financial Group's structured approach to planning for families with disabled members.</description>
+      <pubDate>Mon, 01 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mercer Advisors: ABLE Accounts and Budgeting Tips</title>
+      <link>https://www.merceradvisors.com/insights/family-finance/special-needs-financial-planning/</link>
+      <description>Practical tips for financial planners working with individuals with disabilities.</description>
+      <pubDate>Tue, 02 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voya Cares: Financial Planning for Caregivers</title>
+      <link>https://www.voya.com/page/voya-cares-individuals-and-caregivers</link>
+      <description>Guides and tools for caregivers and individuals with disabilities.</description>
+      <pubDate>Wed, 03 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kitces.com: Disability Insurance in Financial Planning</title>
+      <link>https://www.financialplanningassociation.org/learning/publications/journal/JUL23-disability-insurance-financial-planning-industrys-great-blind-spot-OPEN</link>
+      <description>Exploring the role of disability insurance in comprehensive financial planning.</description>
+      <pubDate>Thu, 04 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finance Strategists: Overview of Disability Planning</title>
+      <link>https://www.financestrategists.com/financial-advisor/financial-planning/financial-planning-for-individuals-with-disabilities/</link>
+      <description>Broad overview of planning considerations across different types of disabilities.</description>
+      <pubDate>Fri, 05 Apr 2024 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
